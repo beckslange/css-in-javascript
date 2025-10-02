@@ -12,6 +12,7 @@ function handleClick() {
   paragraph.classList.toggle("toggle");
   //hidden.style.display = "none"; - this is one way to do it, below is another
   hidden.classList.add("hidden");
+  //^^.add is not working for me
 }
 //what this means is that when we click on the button it selects the h1 and changes it
 //to whatever style i just told it to change to
