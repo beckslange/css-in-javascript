@@ -1,0 +1,22 @@
+button {
+  background: blue;
+  color: white;
+  border: 0;
+  padding: 15px 20px;
+  border-radius: 10px;
+}
+.heading {
+  text-align: center;
+}
+.highlight {
+  color: green;
+  text-align: center;
+  background-color: red;
+}
+.hidden {
+  display: none;
+}
+.toggle {
+  color: red;
+  text-align: center;
+}
